@@ -3,7 +3,7 @@ A recent development in deep learning groups multiple neurons to capsules such t
 
 *This is the official implementation of the paper "Limitation of Capsule Networks".*
 
-    @misc{peer2019gammacapsules,
+    @misc{peer2020limitationofcapsulenetworks,
         title={Limitation of capsule networks.},
         author={David Peer and Sebastian Stabinger and Antonio Rodriguez-Sanchez},
         year={2020},
