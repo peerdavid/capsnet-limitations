@@ -3,13 +3,14 @@ A recent development in deep learning groups multiple neurons to capsules such t
 
 *This is the official implementation of the paper "Limitation of Capsule Networks".*
 
-    @misc{peer2020limitationofcapsulenetworks,
-        title={Limitation of capsule networks.},
-        author={David Peer and Sebastian Stabinger and Antonio Rodriguez-Sanchez},
-        year={2020},
-        eprint={1905.08744v3},
-        archivePrefix={arXiv},
-        primaryClass={cs.LG}
+    @misc{peer2021limitationofcapsulenetworks,
+        title = "Limitation of Capsule Networks",
+        journal = "Pattern Recognition Letters",
+        year = "2021",
+        issn = "0167-8655",
+        doi = "https://doi.org/10.1016/j.patrec.2021.01.017",
+        url = "http://www.sciencedirect.com/science/article/pii/S0167865521000301",
+        author = "David Peer and Sebastian Stabinger and Antonio Rodríguez-Sánchez",
     }
 
 
